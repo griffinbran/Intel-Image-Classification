@@ -43,9 +43,14 @@ Here is some background info:
 
 |Feature|Type|Dataset|Category|Description|
 |---|---|---|---|---|
-|**variable1**|*dtype*|Origin of Data|*Category*|*Description*|
-|**variable2**|*dtype*|Origin of Data|*Category*|*Description*|
-
+|**X**|*dtype*|Origin of Data|*Category*|*Description*|
+|**y**|*dtype*|Origin of Data|*Category*|*Description*|
+{'buildings' -> 0,
+'forest' -> 1,
+'glacier' -> 2,
+'mountain' -> 3,
+'sea' -> 4,
+'street' -> 5
 ---
 <a id='data_aquisition_and_cleaning'></a>
 ### Data Aquisition & Cleaning
